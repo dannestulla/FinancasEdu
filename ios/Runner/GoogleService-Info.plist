@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>561136452358-me8bu4avqkfcca1929bqnh9qsrjmup1q.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.561136452358-me8bu4avqkfcca1929bqnh9qsrjmup1q</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC0_i0d52AmW0Bvucq43wTPauLgQSejY0s</string>
+	<key>GCM_SENDER_ID</key>
+	<string>561136452358</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>br.gohan.financasEdu</string>
+	<key>PROJECT_ID</key>
+	<string>financasedu-8aae3</string>
+	<key>STORAGE_BUCKET</key>
+	<string>financasedu-8aae3.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:561136452358:ios:62be5da6f0025b862ad487</string>
+</dict>
+</plist>

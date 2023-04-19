@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "561136452358",
+    "project_id": "financasedu-8aae3",
+    "storage_bucket": "financasedu-8aae3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561136452358:android:ec228a5d85caf7572ad487",
+        "android_client_info": {
+          "package_name": "br.gohan.financas_edu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561136452358-fhk3nto1ecie4uhqm15vo263bd5mu4s1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJgZRZxhcFazaMQk_vG6Mn4vy3SQkVQHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561136452358-fhk3nto1ecie4uhqm15vo263bd5mu4s1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "561136452358-me8bu4avqkfcca1929bqnh9qsrjmup1q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.gohan.financasEdu"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
