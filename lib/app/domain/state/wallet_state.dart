@@ -1,10 +1,10 @@
-import '../../data/model/wallet.dart';
+import '../../data/model/wallet/wallet.dart';
 
 class WalletState {
-  const WalletState({required this.orders});
+  WalletState({required this.wallet});
 
-  WalletState.initial() : this(orders: "");
+  final Wallet wallet;
 
-  final String orders;
-
+  WalletState.initial()
+      : this(wallet: const Wallet(performance: 12, profit: '', date: '', total: 32));
 }

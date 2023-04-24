@@ -1,4 +1,4 @@
-import '../../data/model/wallet.dart';
+import '../../data/model/wallet/wallet.dart';
 
 class OrdersState {
   const OrdersState({required this.orders});
