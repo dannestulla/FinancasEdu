@@ -1,4 +1,4 @@
-# financas_edu
+# my_finances
 
 A new Flutter project.
 
